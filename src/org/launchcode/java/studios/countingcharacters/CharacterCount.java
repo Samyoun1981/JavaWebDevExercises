@@ -25,8 +25,8 @@ public class CharacterCount {
             System.out.println(count.getKey() + ": " + count.getValue());
             }
 
-            }
         }
+    }
 
 
 
